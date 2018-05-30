@@ -14,9 +14,9 @@ Click the green + and you will be able to add folders and apps.
 
 ![](.gitbook/assets/databrowser_public.png)
 
-![](.gitbook/assets/databrowser_apps.png)
-
 The databrowser contains many apps.
+
+![](.gitbook/assets/db_menu.png)
 
 ## Address Book
 
